@@ -1,0 +1,14 @@
+# Terraform files
+.terraform
+terraform.tfstate
+*.tfstate*
+.terraform.lock.hcl
+#Nohup, log, and other temp files
+nohup.out*
+*.log
+t
+#VIM temp files
+.*.swp
+.*.swo
+#UNote plugin setup for WYSIWYG edit MD
+.unotes
